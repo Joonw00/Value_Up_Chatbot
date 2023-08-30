@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+sentence-transformers
+transformers
+pillow
+scikit-learn
+matplotlib
+openai
+python-dotenv
